@@ -25,7 +25,7 @@ SECRET_KEY = '1kd_)&qk-6#8kib)t_b+7ec4d$i9qtgs@#lje3-=cf5-0%9$t)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ '54.219.175.199', '127.0.0.1', 'fit-hub.app', 'www.fit-hub.app' ]
 
 
 # Application definition
