@@ -5,11 +5,20 @@ Profiles REST API course code.
 To Tun the app:
 
 1. Run Vagrant  
+    
+    
     $ vagrant ssh  
+
+
 2. Install pipenv
+   
+    
     $ mkdir project_directory_name
-    $ pip install --user pipenv
+   
+    $ pip install --user 
+   
     $ pipenv install requests
 
-    Activate virtual env
+    Activate virtual 
+   
     $ pipenv shell
