@@ -2,12 +2,16 @@
 
 Profiles REST API course code.
 
-To Tun the app:
+To Run the app:
+
 
 1. Run Vagrant  
     
-    
+    $ vagrant up
     $ vagrant ssh  
+
+To exit the virtual machine
+    $ exit
 
 
 2. Install pipenv
@@ -19,6 +23,6 @@ To Tun the app:
    
     $ pipenv install requests
 
-    Activate virtual 
+3. Activate virtual 
    
     $ pipenv shell
